@@ -19,39 +19,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 
 
-## Tools:
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
-![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
-![EReact](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux) <br />
-![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify)
-![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase) 
-![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku) <br />
-![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
-![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea) 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000005?style=flat&logo=visual%20studio%20code)<br />
-![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
-![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
-![Adobe PS](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe%20photoshop)
-![Adobe Ai](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=flat&logo=adobe%20illustrator)
-
-## GitHub Overview
-
-<p align="left">
- <a href="https://github.com/shamimbinnur"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamimbinnur&theme=dark"></a>
-</p>
-<p align="left">
-  <a href="https://github.com/shamimbinnur"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shamimbinnur&layout=compact&theme=radical" />
-</a>
-</p>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=shamimbinnur&theme=synthwave&show_icons=true" alt="shamimbinnur" />
-
 
 [website]: http://shamimbinnur.me/
-[instagram]: https://instagram.com/shamimbinnur
-[facebook]: https://www.facebook.com/iamsbn/
 [linkedin]:https://www.linkedin.com/in/shamimbinnur/
 
 

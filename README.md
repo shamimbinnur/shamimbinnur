@@ -1,11 +1,6 @@
 ### Hola, It's Shamim Bin Nur ! 👋
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:iamshamimbn@gmail.com)
+I build real-life applications and solve their problems
 
-## Connect with me:
-[<img align="left" alt="shamimbinnur" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
-
-<br /> 
 
 ## Languages
 

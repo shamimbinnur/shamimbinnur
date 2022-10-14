@@ -1,5 +1,5 @@
 ### Hola, It's Shamim Bin Nur ! 👋
-I love to build real-life applications and solve their problems
+I prefer to see my direct impact on what I build.
 
 
 ## Languages

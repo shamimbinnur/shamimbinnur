@@ -1,4 +1,4 @@
-### Hola, this is Shamim Bin Nur ! 👋
+### Hola, this is Shamim! 👋
 I'm a web developer with a passion for creating beautiful, responsive user interfaces. While I have knowledge of backend development, Currently focusing on front-end development and aspiring to master it.
 
 I'm a firm believer in the importance of writing clean, well-organized code. I strive to stay up-to-date with the latest best practices and techniques to ensure that my code is both efficient and maintainable.

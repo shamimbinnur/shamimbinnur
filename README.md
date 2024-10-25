@@ -1,7 +1,7 @@
 ### Hola, this is Shamim! 👋
 I love to build software and want to scale it to the point where it can serve millions of users. Learning new things and technology gives me an adrenaline rush, and it feels like feeding my brain.
 
-**I build UIs by profession and design by passion.**
+**I build UIs by profession and design by passion. Currently learning to build robust backends.**
 
 In my free time, I enjoy 
 - exploring new technology,

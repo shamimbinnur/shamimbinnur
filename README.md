@@ -1,15 +1,3 @@
-### Hola, this is Shamim! 👋
-I love to build software and want to scale it to the point where it can serve millions of users. Learning new things and technology gives me an adrenaline rush, and it feels like feeding my brain.
+**Hi** 👋
 
-**I build UIs by profession and design by passion. Currently learning to build robust backends.**
-
-In my free time, I enjoy 
-- exploring new technology,
-- reading articles, blogs, books,
-- and contributing to open-source projects.
-
-
-[website]: http://shamimbinnur.me/
-[linkedin]:https://www.linkedin.com/in/shamimbinnur/
-
-
+If I were told to describe myself in one sentence, I would say, ‘A developer with a computer science background craves blending aesthetics into software.’ But the word ‘Engineer’ feels more fascinating to me. Once I can land a true engineering role where I will be a part of designing, developing, and maintaining large-scale software with computer science knowledge, I might then choose the word ‘Engineer’ over ‘Developer’ [read more](https//:shamimbinnur.me/about-shamim-bin-nur)
